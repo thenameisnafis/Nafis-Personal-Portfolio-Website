@@ -128,7 +128,7 @@ section{
 
 .about-img-card {
 	position: relative;
-	width: 300px; /* Wider card */
+	width: 480px; /* Wider card */
 	border-radius: 30px;
 	overflow: hidden;
 	box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
@@ -173,6 +173,10 @@ section{
 	transform: scale(1.05);
 	transition: transform 0.4s ease;
   }  
+  
+  
+  
+
 
   
 .education-timeline {
